@@ -59,7 +59,7 @@
 <!-- Tech stack icons -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,cpp,css,ps,discord,docker,postgres,prisma,figma,firebase,github,html,java,js,linux,md,materialui,nginx,mongodb,mysql,nextjs,nodejs,postman,py,react,tailwind,dart,dotnet,flutter,androidstudio,visualstudio,vite,ts,vscode,kubernetes&perline=14" alt="Skills" />
+    <img src="https://skillicons.dev/icons?i=git,cpp,cs,js,ts,java,html,css,ps,discord,docker,postgres,prisma,figma,firebase,github,linux,md,materialui,nginx,mongodb,mysql,nextjs,nodejs,postman,py,react,tailwind,dart,dotnet,flutter,androidstudio,visualstudio,vite,vscode,kubernetes&perline=14" alt="Skills" />
   </a>
 </p>
 
